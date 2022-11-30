@@ -1,0 +1,19 @@
+
+T
+java:S1854"8Remove this useless assignment to local variable "curr".(—Èş8ÊÔÇñË0
+T
+java:S1854
+"7Remove this useless assignment to local variable "res".(¶›½İ8ÊÔÇñË0
+E
+java:S1481
+"(Remove this unused "res" local variable.(¶›½İ8ÌÔÇñË0
+E
+java:S1481")Remove this unused "curr" local variable.(—Èş8ÌÔÇñË0
+^
+java:S1172"HRemove these unused method parameters "array", "start", "end", "target".(Ä„îõ
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8ÄÈñË0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÍÔÇñË0
+K
+java:S1144".Remove this unused private "targetSum" method.(Ä„îõ8ÍÔÇñË0

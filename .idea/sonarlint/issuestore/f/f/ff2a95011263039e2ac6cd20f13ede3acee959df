@@ -1,0 +1,16 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "res".(Êæ’úÿÿÿÿ
+C
+java:S1481"(Remove this unused "res" local variable.(Êæ’úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ı÷¸ıÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¶ı÷¸ıÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
+<
+java:S1168/"&Return an empty array instead of null.(¥¹ï
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+B
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô
