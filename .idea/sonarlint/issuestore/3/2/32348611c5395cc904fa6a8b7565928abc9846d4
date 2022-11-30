@@ -1,0 +1,12 @@
+
+@
+java:S5411"*Use the primitive boolean expression here.(ÄÅÌŠ
+@
+java:S5411,"*Use the primitive boolean expression here.(«€ß÷
+C
+java:S1481"(Remove this unused "res" local variable.(é“ÈÚùÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(ÄÅÌŠ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(óêËŠıÿÿÿÿ
+=
+java:S1125,"'Remove the unnecessary boolean literal.(«€ß÷
