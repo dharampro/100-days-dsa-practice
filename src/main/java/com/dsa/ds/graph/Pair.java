@@ -17,4 +17,8 @@ public class Pair {
     this.second = second;
     this.weight = weight;
   }
+  @Override
+  public String toString() {
+    return "Pair{" + "first=" + first + ", second=" + second + ", weight=" + weight + '}';
+  }
 }
